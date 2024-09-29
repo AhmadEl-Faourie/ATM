@@ -55,7 +55,7 @@ void ATM::fullyWorking(int menu, float userInput)
 			exit();
 			break;
 		}
-		Sleep(5000);
+		Sleep(1000);
 		system("cls");
 	}
 }
